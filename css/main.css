@@ -1,0 +1,13 @@
+body {
+    background-color: tomato;
+}
+
+.svg-graphic {
+    height: 200px;
+}
+
+.svg-wrapper {
+    min-height: 75vh;
+    padding: 20px;
+    border: thin dashed white;
+}
